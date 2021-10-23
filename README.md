@@ -1,11 +1,12 @@
-This Stage(2) of Data Science portfolio.
 
-Objective: Answering Reseach Quesion
+Google Play Store Dataset Analysis to find what charactristics  makes an App popular on Google Play Store. 
 
-Description: Analysis of Google Play Store dataset using python To answert the following Quesion:
-"WHAT MAKES APPS POPULAR ON GOOGLE PLAY ?"
+Thie reposotory includes: 1) Google Play Store Dataset
+                          2) jupyter Notbook                         
+Programming langauge: Pyhton 
 
 Dataset credit: 
 A kaggle dataset by Lavanya
 Link: https://www.kaggle.com/lava18/google-play-store-apps
 
+last updeted on Oct 23,2021
