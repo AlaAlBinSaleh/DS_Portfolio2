@@ -1,5 +1,5 @@
 
-# Description:
+## Description:
 Google Play Store Dataset Analysis to find what charactristics  makes an App popular on Google Play Store. 
 
 Thie repository includes: 
@@ -8,10 +8,10 @@ Thie repository includes:
                           
 Programming langauge: Pyhton 
 
-# Dataset credit: 
+## Dataset credit: 
 A kaggle dataset by Lavanya
 
 Link: https://www.kaggle.com/lava18/google-play-store-apps
 
-# Date: 
+## Date: 
 last updeted on Oct 23,2021
