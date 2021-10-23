@@ -1,7 +1,7 @@
 
 Google Play Store Dataset Analysis to find what charactristics  makes an App popular on Google Play Store. 
 
-Thie reposotory includes: 1) Google Play Store Dataset
+Thie repository includes: 1) Google Play Store Dataset
                           2) jupyter Notbook                         
 Programming langauge: Pyhton 
 
